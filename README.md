@@ -45,8 +45,6 @@ DeepSeek/
 ```
 
 
-https://github.com/user-attachments/assets/6de83561-9a70-4ac4-a79a-301b35d4c993
-
 
 ## Screenshots
 ### RAG Application
