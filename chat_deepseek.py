@@ -11,7 +11,7 @@ st.title("Make Your Own History Enabled Chat Application with DeepSeek, Ollama a
 
 
 model_name = "deepseek-r1:1.5b"
-# model_name = "deepseek-r1:1.5b"
+model = ChatOllama(model_name=model_name)
 
 
 
@@ -31,7 +31,7 @@ with st.form("llm-form"):
 def generate_response(chat_histroy):
     chat_template = ChatPromptTemplate.from_messages(chat_histroy)
 
-    chain = chat_template|model|StrOutputParser()
+    chain = chat_template | model | StrOutputParser()
 
     response = chain.invoke({})
 

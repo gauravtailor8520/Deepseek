@@ -42,7 +42,7 @@ def display_pdf_in_sidebar(pdf_path, file_name):
         st.sidebar.error(f"Error loading PDF: {str(e)}")
 
 # Streamlit title and layout
-st.title("Build RAG Locally with DeepSeek for Financial Data Analysis")
+st.title("RAG With DeepSeek_R1 🐟 ")
 
 # Dropdown to select vector DB or upload a new document
 vector_db_options = [f.stem for f in Path(VECTOR_DB_FOLDER).glob("*.faiss")]
