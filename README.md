@@ -44,8 +44,7 @@ DeepSeek/
 
 ## Screenshots
 ### RAG Application
-![RAG Application](assets/app_screenshot.png)
-
+![RAG Application](https://github.com/user-attachments/assets/1e00263f-1432-4969-a77d-d5631aa99c47)
 ### Chatbot Demo
 ![Chatbot Demo](assets/chatbot_demo.mp4)
 
