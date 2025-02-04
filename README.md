@@ -25,17 +25,17 @@ streamlit run App.py
 
 ## File Structure
 ```
-rag-app/
-│── App.py            # Main Streamlit app for RAG
+DeepSeek/              
+│── App.py                                    # Main Streamlit app for RAG
 │── Rag.py
 │── chatbot.py
 │── Build RAG Locally with DeepSeek.ipynb     # Ipynb File For RAG Pipeline
 │── requirements.txt
-│── Simple.py  # Simple Deepseek Chatbot Directly. 
-│── assets/           # Images and videos
+│── Simple.py                                 # Simple Deepseek Chatbot Directly. 
+│── assets/                                   # Images and videos
 │   ├── app_screenshot.png
 │   ├── chatbot_demo.mp4
-│── templates/           # Html file for the Simple Deepseek ChatBot.
+│── templates/                                # HTML file for the Simple Deepseek ChatBot.
 │   ├── index.html
 
 ```
@@ -51,4 +51,8 @@ rag-app/
 This project is licensed under the MIT License.
 
 ## Author
-[Your Name](https://github.com/your-username)
+[Gaurav Tailor](https://github.com/gauravtailor8520)
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gaurav-tailor-bb4924223/)
+
