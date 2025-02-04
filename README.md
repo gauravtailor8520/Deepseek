@@ -27,11 +27,17 @@ streamlit run App.py
 ```
 rag-app/
 │── App.py            # Main Streamlit app for RAG
-│── chatbot.py        # Simple chatbot using Deepseek
-│── requirements.txt  # Python dependencies
+│── Rag.py
+│── chatbot.py
+│── Build RAG Locally with DeepSeek.ipynb     # Ipynb File For RAG Pipeline
+│── requirements.txt
+│── Simple.py  # Simple Deepseek Chatbot Directly. 
 │── assets/           # Images and videos
 │   ├── app_screenshot.png
 │   ├── chatbot_demo.mp4
+│── templates/           # Html file for the Simple Deepseek ChatBot.
+│   ├── index.html
+
 ```
 
 ## Screenshots
