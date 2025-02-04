@@ -44,14 +44,19 @@ DeepSeek/
 
 ```
 
+
+https://github.com/user-attachments/assets/6de83561-9a70-4ac4-a79a-301b35d4c993
+
+
 ## Screenshots
 ### RAG Application
 ![RAG Application](https://github.com/user-attachments/assets/1e00263f-1432-4969-a77d-d5631aa99c47)
 ### RAG Architecture
 ![RAG Architecture](https://github.com/user-attachments/assets/6c121f72-31f4-4511-9c63-98206aa47899)
 
-### Chatbot Demo
-![RAG Architecture](![Image](https://github.com/user-attachments/assets/6c121f72-31f4-4511-9c63-98206aa47899))
+### DeepSeek Chatbot Demo
+https://github.com/user-attachments/assets/6de83561-9a70-4ac4-a79a-301b35d4c993
+
 ## License
 This project is licensed under the MIT License.
 
