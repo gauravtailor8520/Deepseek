@@ -37,6 +37,8 @@ DeepSeek/
 │   ├── chatbot_demo.mp4
 │── templates/                                # HTML file for the Simple Deepseek ChatBot.
 │   ├── index.html
+│── vector_db/
+    ├── FAISS DataBase and Documents  
 
 ```
 
