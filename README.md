@@ -2,7 +2,7 @@
 
 This repository contains a Streamlit-based RAG (Retrieval-Augmented Generation) application utilizing the Ollama and Deepseek R1 1.5B models. Additionally, a simple chatbot is implemented using only the Deepseek model.
 ### RAG Architecture
-![RAG Architecture](https://github.com/user-attachments/assets/6c121f72-31f4-4511-9c63-98206aa47899)
+![RAG Architecture](https://github.com/user-attachments/assets/dffd736d-f488-41f0-a370-501cfe0d17c2)
 
 ## Features
 - **RAG-based AI Assistant**: Uses Ollama and Deepseek R1 1.5B models for intelligent responses.
@@ -49,8 +49,9 @@ DeepSeek/
 ## Screenshots
 ### RAG Application
 ![RAG Application](https://github.com/user-attachments/assets/1e00263f-1432-4969-a77d-d5631aa99c47)
-### RAG Architecture
-![RAG Architecture](https://github.com/user-attachments/assets/6c121f72-31f4-4511-9c63-98206aa47899)
+
+### DeepSeek Rag Demo
+https://github.com/user-attachments/assets/70d79c01-ff3f-4e1c-b401-230df3117301
 
 ### DeepSeek Chatbot Demo
 https://github.com/user-attachments/assets/6de83561-9a70-4ac4-a79a-301b35d4c993
