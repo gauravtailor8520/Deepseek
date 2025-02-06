@@ -13,6 +13,9 @@ from PIL import Image
 VECTOR_DB_FOLDER = "vector_db"
 os.makedirs(VECTOR_DB_FOLDER, exist_ok=True)
 
+# Set environment variable to avoid KMP duplicate library error
+os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
+
 # Function to display PDF content as images in the sidebar
 def display_pdf_in_sidebar(pdf_path, file_name):
     try:
@@ -130,4 +133,3 @@ if st.button("Submit Question") and question and selected_vector_db != "Upload N
         for chunk in rag_chain.stream(question):
             response += chunk  # Append each chunk of the response
             response_placeholder.markdown(response.replace('$', '\\$'))  # Update the placeholder with the new response
-
