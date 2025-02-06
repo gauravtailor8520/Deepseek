@@ -50,6 +50,9 @@ DeepSeek/
 ### RAG Application
 ![RAG Application](https://github.com/user-attachments/assets/1e00263f-1432-4969-a77d-d5631aa99c47)
 
+### DeepSeek Rag Demo
+https://github.com/user-attachments/assets/70d79c01-ff3f-4e1c-b401-230df3117301
+
 ### DeepSeek Chatbot Demo
 https://github.com/user-attachments/assets/6de83561-9a70-4ac4-a79a-301b35d4c993
 
